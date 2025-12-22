@@ -1,4 +1,4 @@
-Respuesta instalación git: 
+Respuesta tarea Github módulo 2 - lección 7
 
 git -- versión
 Descripción: muestra la versión instalada de Git.
