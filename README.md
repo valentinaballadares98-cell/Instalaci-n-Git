@@ -37,5 +37,10 @@ PS C:\Users\wwejo\Desktop\Actividad L-3 , 1,2,3,4> git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
+
+## Actividad: Uso Básico de Git
+
+En esta actividad se inicializó un repositorio Git, se agregaron los archivos del proyecto y se realizó un commit para registrar el estado inicial del proyecto, cumpliendo con el uso básico de Git para control de versiones.
+
 nothing to commit, working tree clean
 
